@@ -1,0 +1,8 @@
+.gradient-custom {
+    background: linear-gradient(180deg, #7ED957 0%, rgba(36,201,171,1) 100%);
+    }
+
+   .card-body {
+        background: linear-gradient(180deg, #7ED957 0%, rgba(36,201,171,1) 100%);
+
+    }

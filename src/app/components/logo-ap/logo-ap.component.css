@@ -1,4 +1,4 @@
-.contenedor{
+.container{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -16,9 +16,9 @@ img{
     border-width: medium;
 }
 
-/*--- cel ---*/
+/*--- Para la vista de celular ---*/
 @media (max-width: 575px){
-    .contenedor{
+    .container{
         flex-direction: column;
     }
     .redes{
